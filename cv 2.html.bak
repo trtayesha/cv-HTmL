@@ -1,0 +1,50 @@
+<html>
+<title>MY CV</title>
+<body>
+<center><img src="uos/cv 2.jpeg" hight="100" width="100"</center>
+<center><h2>Ayesha</h2><center>
+<center>Add:Mohla kot.M yar,Lalian,chiniot</center>
+<center><h1><u>personal Information </u></h1></center>
+<center><p>Name:Ayesha Abid </p></center>
+<center><p>CNIC:3340207538060</p><center>
+<center><p>Nationali:Pakistani </p></center>
+<center><p>religin:Islam</p></center>
+<center><table border="1">
+
+<th>Qulification</th>
+<th> Passing Year</th>
+<th>Board/Univerisity</th>
+<th>Grade</th>
+<tr>
+<td>Matric</td>
+<td>2019</td>
+<td>FSD</td>
+<td>A</td>
+</tr>
+<tr>
+<td>Inter</td>
+<td>2021</td>
+<td>FSD</td>
+<td>A+</td>
+</tr>
+</table>
+<center><h1><u>Experience</u></h1></center>
+<p>Notpad as HTML</p>
+<h1><u> Languages</u></h1>
+<ul>
+<li>English</li>
+<li>urdu</li>
+<li>punjubi</li>
+</ul>
+
+<h1><u>Personal Qualities</u></h1>
+<p> Hard worker, Motivator, caring</p>
+
+<h1><u>Hoppies</u></h1>
+<ul>
+<li> pinting</li>
+<li>Graph Art</li>
+</ul>
+</center>
+</body>
+</html>
